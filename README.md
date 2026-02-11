@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Andisiwe Gqirana, Manager of AG Consultants, where I run some marketing business, also makes a blog 
+My Andisiwe Gqirana, Manager of AG Consultants,https://github.com/andagqirana/andagqirana/tree/main where I run some marketing business, also makes a blog 
 . I'm looking to collaborate on YouTube videos! Send me ideas to andisiwe@agconsultin.co.za
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
